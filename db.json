@@ -1,0 +1,46 @@
+JournalCardData = [
+    {
+        id: 1234,
+        pic: 'https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg',
+        title: 'Post 1',
+        desc: 'lorem ipsum bla bla bla',
+        date: '2 Sept 2021',
+        shared: [
+            'showcase',
+            'private'
+        ],
+        course: [
+            'example course 1',
+            'example course 2'
+        ]
+    },
+    {
+        id: 2127,
+        pic: 'https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg',
+        title: 'Post 2',
+        desc: 'lorem ipsum bla bla bla',
+        date: '2 Sept 2021',
+        shared: [
+            'showcase',
+            'private',
+            'community'
+        ],
+        course: [
+            'example course 1',
+            'example course'
+        ]
+    },
+    {
+        id: 3567,
+        pic: 'https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg',
+        title: 'Post 3',
+        desc: 'lorem ipsum bla bla bla',
+        date: '2 Sept 2021',
+        shared: [
+            'showcase'
+        ],
+        course: [
+            'example course 1'
+        ]
+    },
+]
