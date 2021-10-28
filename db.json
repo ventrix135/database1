@@ -1,94 +1,95 @@
 {
-    "JournalCardData" : [
-        {
-            "id": 1234,
-            "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
-            "title": "Post 1",
-            "desc": "lorem ipsum bla bla bla",
-            "date": "2 Sept 2021",
-            "shared": [
-                "showcase",
-                "private"
-            ],
-            "course": [
-                "example course 1",
-                "example course 2"
-            ]
-        },
-        {
-            "id": 4573,
-            "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
-            "title": "Post 1",
-            "desc": "lorem ipsum bla bla bla",
-            "date": "2 Sept 2021",
-            "shared": [
-                "showcase",
-                "private"
-            ],
-            "course": [
-                "example course 1",
-                "example course 2"
-            ]
-        },
-        {
-            "id": 1334,
-            "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
-            "title": "Post 1",
-            "desc": "lorem ipsum bla bla bla",
-            "date": "2 Sept 2021",
-            "shared": [
-                "showcase",
-                "private"
-            ],
-            "course": [
-                "example course 1",
-                "example course 2"
-            ]
-        },
-        {
-            "id": 1251,
-            "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
-            "title": "Post 1",
-            "desc": "lorem ipsum bla bla bla",
-            "date": "2 Sept 2021",
-            "shared": [
-                "showcase",
-                "private"
-            ],
-            "course": [
-                "example course 1",
-                "example course 2"
-            ]
-        },
-        {
-            "id": 9786,
-            "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
-            "title": "Post 1",
-            "desc": "lorem ipsum bla bla bla",
-            "date": "2 Sept 2021",
-            "shared": [
-                "showcase",
-                "private"
-            ],
-            "course": [
-                "example course 1",
-                "example course 2"
-            ]
-        },
-        {
-            "id": 4573,
-            "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
-            "title": "Post 1",
-            "desc": "lorem ipsum bla bla bla",
-            "date": "2 Sept 2021",
-            "shared": [
-                "showcase",
-                "private"
-            ],
-            "course": [
-                "example course 1",
-                "example course 2"
-            ]]
-        },
-    ]
+  "JournalCardData": [
+    {
+      "id": 1234,
+      "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
+      "title": "Post 1",
+      "desc": "lorem ipsum bla bla bla",
+      "date": "2 Sept 2021",
+      "shared": [
+        "showcase",
+        "private"
+      ],
+      "course": [
+        "example course 1",
+        "example course 2"
+      ]
+    },
+    {
+      "id": 4573,
+      "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
+      "title": "Post 1",
+      "desc": "lorem ipsum bla bla bla",
+      "date": "2 Sept 2021",
+      "shared": [
+        "showcase",
+        "private"
+      ],
+      "course": [
+        "example course 1",
+        "example course 2"
+      ]
+    },
+    {
+      "id": 1334,
+      "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
+      "title": "Post 1",
+      "desc": "lorem ipsum bla bla bla",
+      "date": "2 Sept 2021",
+      "shared": [
+        "showcase",
+        "private"
+      ],
+      "course": [
+        "example course 1",
+        "example course 2"
+      ]
+    },
+    {
+      "id": 1251,
+      "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
+      "title": "Post 1",
+      "desc": "lorem ipsum bla bla bla",
+      "date": "2 Sept 2021",
+      "shared": [
+        "showcase",
+        "private"
+      ],
+      "course": [
+        "example course 1",
+        "example course 2"
+      ]
+    },
+    {
+      "id": 9786,
+      "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
+      "title": "Post 1",
+      "desc": "lorem ipsum bla bla bla",
+      "date": "2 Sept 2021",
+      "shared": [
+        "showcase",
+        "private"
+      ],
+      "course": [
+        "example course 1",
+        "example course 2"
+      ]
+    },
+    {
+      "id": 4573,
+      "pic": "https://campuspedia.id/news/wp-content/uploads/2021/01/A4GDK27VMnz6LtFDy9yzk.jpg",
+      "title": "Post 1",
+      "desc": "lorem ipsum bla bla bla",
+      "date": "2 Sept 2021",
+      "shared": [
+        "showcase",
+        "private"
+      ],
+      "course": [
+        "example course 1",
+        "example course 2"
+      ]
+    },
+    []
+  ]
 }
